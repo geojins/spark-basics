@@ -1,0 +1,3 @@
+hello world my name is jins
+i am a software engineer trying to write hello world in spark
+if you want to learn  hello world in spark just start with example hello world programs.
